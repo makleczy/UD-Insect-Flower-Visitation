@@ -1,0 +1,43 @@
+UD Network Sample 2
+
+----------------------------------------
+
+Location:
+University of Delaware Botanic Gardens
+Landscape Color Trial Garden
+
+Date:
+September 10, 2022
+
+Data Collection:
+Melinda Kleczynski
+
+----------------------------------------
+
+Helianthus - Apis
+Helianthus - Bombus
+Helianthus - Eristalis
+
+Gomphrena - Bombus
+Gomphrena - Apis
+
+Heliotropium - Apis
+Heliotropium - Allograpta
+Heliotropium - Pieris
+
+Celosia - Eupeodes
+Celosia - Chauliognathus
+Celosia - Ancyloxypha
+Celosia - Junonia
+Celosia - Apis
+
+Coleus - Apis
+Coleus - Anthidium
+Coleus - Xylocopa
+
+Tagetes - Eristalis
+Tagetes - Apis
+
+Coreopsis - Bombus
+
+Petunia - Eupeodes
