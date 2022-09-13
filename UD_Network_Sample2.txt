@@ -14,30 +14,30 @@ Melinda Kleczynski
 
 ----------------------------------------
 
+Celosia - Ancyloxypha
+Celosia - Apis
+Celosia - Chauliognathus
+Celosia - Eupeodes
+Celosia - Junonia
+
+Coleus - Anthidium
+Coleus - Apis
+Coleus - Xylocopa
+
+Coreopsis - Bombus
+
+Gomphrena - Apis
+Gomphrena - Bombus
+
 Helianthus - Apis
 Helianthus - Bombus
 Helianthus - Eristalis
 
-Gomphrena - Bombus
-Gomphrena - Apis
-
-Heliotropium - Apis
 Heliotropium - Allograpta
+Heliotropium - Apis
 Heliotropium - Pieris
 
-Celosia - Eupeodes
-Celosia - Chauliognathus
-Celosia - Ancyloxypha
-Celosia - Junonia
-Celosia - Apis
-
-Coleus - Apis
-Coleus - Anthidium
-Coleus - Xylocopa
-
-Tagetes - Eristalis
-Tagetes - Apis
-
-Coreopsis - Bombus
-
 Petunia - Eupeodes
+
+Tagetes - Apis
+Tagetes - Eristalis
