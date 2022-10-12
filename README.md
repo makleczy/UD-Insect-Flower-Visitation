@@ -37,6 +37,6 @@ The abundance of different insect taxa varied considerably. For example, many We
 
 The final dataset contains 20 insect genera. I observed 64 insect-flower interactions over the course of the three days of data collection, which yielded 39 unique interactions (see the network below). The high proportion of unique interactions may indicate that the system was under-sampled, and that additional days of data collection may have revealed additional unique interactions.
 
-<img src = "https://github.com/makleczy/UD-Insect-Flower-Visitation/blob/main/bipartite_readme_figure.png" width = 800>
+<img src = "https://github.com/makleczy/UD-Insect-Flower-Visitation/blob/main/bipart_readme_figure.png" width = 800>
 
 
