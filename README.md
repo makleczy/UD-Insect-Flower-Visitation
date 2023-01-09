@@ -1,4 +1,4 @@
-# University of Delaware Trial Garden Insect-Flower Visitation Dataset
+# University of Delaware Insect-Flower Visitation Dataset
 
 ### Melinda Kleczynski
 
